@@ -1,0 +1,16 @@
+2022-08-10 11:22:08|INFO|train.py[:18]|开始加载数据...
+2022-08-10 11:22:08|INFO|train.py[:26]|创建Word2Vec模型 --> ./alphamind\word2vec.model
+2022-08-10 11:22:08|INFO|train.py[:31]|开始模型训练，总批次：10
+2022-08-10 11:22:08|INFO|train.py[:34]|模型保存--> ./alphamind\word2vec.model
+2022-08-10 11:22:37|INFO|train.py[:18]|开始加载数据...
+2022-08-10 11:22:38|INFO|train.py[:23]|加载Word2Vec模型 --> ./alphamind\word2vec.model
+2022-08-10 11:22:38|INFO|train.py[:31]|开始模型训练，总批次：10
+2022-08-10 11:22:38|INFO|train.py[:34]|模型保存--> ./alphamind\word2vec.model
+2022-08-10 11:24:13|INFO|train.py[:18]|开始加载数据...
+2022-08-10 11:24:14|INFO|train.py[:23]|加载Word2Vec模型 --> ./alphamind\word2vec.model
+2022-08-10 11:24:14|INFO|train.py[:31]|开始模型训练，总批次：10
+2022-08-10 11:24:14|INFO|train.py[:34]|模型保存--> ./alphamind\word2vec.model
+2022-08-10 11:24:24|INFO|train.py[:18]|开始加载数据...
+2022-08-10 11:24:24|INFO|train.py[:23]|加载Word2Vec模型 --> ./alphamind\word2vec.model
+2022-08-10 11:24:24|INFO|train.py[:31]|开始模型训练，总批次：10
+2022-08-10 11:24:24|INFO|train.py[:34]|模型保存--> ./alphamind\word2vec.model
